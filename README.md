@@ -1,14 +1,7 @@
-# Expo Router Example
+# Simple React Native Sound Player
 
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
+The purpose of this project is to test how React Native with Expo works
+with making a multitrack audio app that would play multiple audio files
+(in this case kick, clap, snare and hihats) and keep them in sync.
+So far, no good results.
 
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
